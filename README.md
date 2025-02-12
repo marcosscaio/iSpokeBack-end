@@ -3,11 +3,11 @@ BackEnd do projeto iSpoke feito para a disciplina de POO
 
 ## API
 É neceesário ter um ambiente virtual ativo
-1. ** Dependências**
+1. **Dependências**
    ```python
    pip install -r requirements.txt
 
-2. ** Inicializar **
+2. **Inicializar**
    ```bash
    uvicorn main:app --host 0.0.0.0 --port 8000
 
