@@ -2,7 +2,7 @@
 BackEnd do projeto iSpoke feito para a disciplina de POO
 
 ## API
-É neceesário ter um ambiente virtual ativo
+É necessário ter um ambiente virtual ativo
 1. **Dependências**
    ```python
    pip install -r requirements.txt
